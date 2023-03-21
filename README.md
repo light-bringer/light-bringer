@@ -25,6 +25,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=light-bringer&show_icons=true&locale=en&layout=compact" alt="light-bringer" /></p>
 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/light-bringer/light-bringer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-bringer&hide=Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
+</a>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=light-bringer&show_icons=true&locale=en" alt="light-bringer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=light-bringer&" alt="light-bringer" /></p>
